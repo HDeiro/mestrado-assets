@@ -6,5 +6,5 @@ Este projeto contém os recursos utilizados/referenciados no meu projeto de mest
 
 Este projeto foi desenvolvido por [mim](https://hugodeiro.com) sob orientação do [Prof. Dr. Renato Lima Novais](https://github.com/renatoln).
 
-- [Respostas do Segundo Estudo Exploratório](./assets/exp2.pdf)
-- [Respostas do Terceiro Estudo Exploratório](./assets/exp3.pdf)
+- [Respostas da Segunda Avaliação Experimental](./assets/exp2.pdf)
+- [Respostas da Terceira Avaliação Experimental](./assets/exp3.pdf)
