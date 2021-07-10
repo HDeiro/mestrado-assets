@@ -8,3 +8,7 @@ Este projeto foi desenvolvido por [mim](https://hugodeiro.com) sob orientação 
 
 - [Respostas da Segunda Avaliação Experimental](./assets/exp2.pdf)
 - [Respostas da Terceira Avaliação Experimental](./assets/exp3.pdf)
+
+**Você pode ter acesso a uma [demo da VYR aqui](https://visualize-your-region.github.io/)**.
+
+> Devido ao fato de ser uma demo pública algumas funcionalidades estão desabilitadas.
