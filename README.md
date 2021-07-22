@@ -13,3 +13,11 @@ Este projeto foi desenvolvido por [mim](https://hugodeiro.com) sob orientação 
 **Você pode ter acesso a uma [demo da VYR aqui](https://visualize-your-region.github.io/)**.
 
 > Devido ao fato de ser uma demo pública algumas funcionalidades estão desabilitadas.
+
+### Vídeo-resumo do trabalho
+
+<iframe 
+    width="420" 
+    height="315"
+    src="https://www.youtube.com/watch?v=jjxpCDfE2Xs&ab_channel=GSORTIFBA">
+</iframe>
