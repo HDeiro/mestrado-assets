@@ -14,10 +14,6 @@ Este projeto foi desenvolvido por [mim](https://hugodeiro.com) sob orientação 
 
 > Devido ao fato de ser uma demo pública algumas funcionalidades estão desabilitadas.
 
-### Vídeo-resumo do trabalho
-
-<iframe 
-    width="420" 
-    height="315"
-    src="https://www.youtube.com/watch?v=jjxpCDfE2Xs&ab_channel=GSORTIFBA">
-</iframe>
+### Vídeo-resumo do trabalho & Convite para Defesa 
+\
+[![Thumbnail da Defesa](./assets/thumbnail-defesa.jpeg)](https://www.youtube.com/watch?v=jjxpCDfE2Xs&ab_channel=GSORTIFBA "Everything Is AWESOME")
